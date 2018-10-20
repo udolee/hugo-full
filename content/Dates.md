@@ -7,6 +7,7 @@ draft: true
 
 |   |   |
 |---|---|
+| 01.01.2019 | CHILLIN  |
 | 12.31.2018 | NYE &ndash; NYD &ndash; Happy New Year !!!  |
 | 12.29.2018 | Goa Club &ndash; Rome &ndash; IT   |
 | 12.28.2018 | Le Zoo &ndash; Geneva &ndash; CH    |
